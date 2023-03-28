@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">proyecto7</string>
+    <string name="button">Grabar</string>
+    <string name="button2">Recuperar</string>
+    <string name="textView">Ingrese fecha</string>
+    <string name="Recuperar">Recuperar</string>
+</resources>
